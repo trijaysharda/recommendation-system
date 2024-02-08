@@ -1,0 +1,8 @@
+openai
+langchain
+sentence_transformers
+chromadb
+unstructured
+PyPDF2
+langchain_openai
+flask
